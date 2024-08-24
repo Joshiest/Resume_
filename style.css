@@ -1,0 +1,58 @@
+h1{
+    color:white
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white    
+}
+
+hr{
+    border: none;
+    width: 40%;
+    height: 1px;
+    color: #333; 
+    background-color: #333;
+}
+
+pre{
+    padding:50px;
+    display:inline;
+    color:white
+
+}
+
+div.class{
+    text-align: center;
+    color:white
+}
+
+ul.myUL{
+    display:inline-block;
+    text-align: left;
+    color:white
+}
+
+ion-icon {
+    font-size: 45px;
+    color:white;
+    padding:30px;
+}
+
+table, th, td {
+    border: .5px solid white;
+}
+  
+th, td {
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+    font-size:25.9px;
+}
+
+em{
+  font-size: 25px;
+}
+
